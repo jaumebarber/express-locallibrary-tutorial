@@ -1,5 +1,5 @@
 {
-  "name": "local_library",
+  "name": "express-locallibrary-tutorial",
   "version": "10.14.1",
   "private": true,
   "scripts": {
